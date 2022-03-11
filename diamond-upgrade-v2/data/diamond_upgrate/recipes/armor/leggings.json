@@ -1,12 +1,12 @@
 {
     "type": "minecraft:smithing",
     "base": {
-        "item": "minecraft:iron_boots"
+        "tag": "diamond_upgrate:armor/leggings"
     },
     "addition": {
         "item": "minecraft:diamond"
     },
     "result": {
-        "item": "minecraft:diamond_boots"
+        "item": "minecraft:diamond_leggings"
     }
 }

@@ -1,12 +1,12 @@
 {
     "type": "minecraft:smithing",
     "base": {
-        "item": "minecraft:iron_axe"
+        "tag": "diamond_upgrate:armor/boots"
     },
     "addition": {
         "item": "minecraft:diamond"
     },
     "result": {
-        "item": "minecraft:diamond_axe"
+        "item": "minecraft:diamond_boots"
     }
 }

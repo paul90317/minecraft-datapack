@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smithing",
     "base": {
-        "item": "minecraft:iron_chestplate"
+        "tag": "diamond_upgrate:armor/chestplate"
     },
     "addition": {
         "item": "minecraft:diamond"

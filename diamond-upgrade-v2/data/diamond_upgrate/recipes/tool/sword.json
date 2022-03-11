@@ -1,12 +1,12 @@
 {
     "type": "minecraft:smithing",
     "base": {
-        "item": "minecraft:iron_shovel"
+        "tag": "diamond_upgrate:tool/sword"
     },
     "addition": {
         "item": "minecraft:diamond"
     },
     "result": {
-        "item": "minecraft:diamond_shovel"
+        "item": "minecraft:diamond_sword"
     }
 }

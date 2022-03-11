@@ -1,12 +1,12 @@
 {
     "type": "minecraft:smithing",
     "base": {
-        "item": "minecraft:iron_sword"
+        "tag": "diamond_upgrate:armor/helmet"
     },
     "addition": {
         "item": "minecraft:diamond"
     },
     "result": {
-        "item": "minecraft:diamond_sword"
+        "item": "minecraft:diamond_helmet"
     }
 }

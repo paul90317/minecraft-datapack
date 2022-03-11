@@ -1,12 +1,12 @@
 {
     "type": "minecraft:smithing",
     "base": {
-        "item": "minecraft:iron_leggings"
+        "tag": "diamond_upgrate:tool/pickaxe"
     },
     "addition": {
         "item": "minecraft:diamond"
     },
     "result": {
-        "item": "minecraft:diamond_leggings"
+        "item": "minecraft:diamond_pickaxe"
     }
 }

@@ -1,12 +1,12 @@
 {
     "type": "minecraft:smithing",
     "base": {
-        "item": "minecraft:iron_pickaxe"
+        "tag": "diamond_upgrate:tool/shovel"
     },
     "addition": {
         "item": "minecraft:diamond"
     },
     "result": {
-        "item": "minecraft:diamond_pickaxe"
+        "item": "minecraft:diamond_shovel"
     }
 }
