@@ -1,2 +1,2 @@
-summon spider ~ ~1 ~ {CustomName:'{"text":"Black Widow","color":"white"}',CustomNameVisible:1b,Tags:[sp_mob.ovw],DeathLootTable:"sp_mobs:black_widow",ActiveEffects:[{Id:11b,Amplifier:0,Duration:999999999}]}
+summon spider ~ ~1 ~ {CustomName:'{"text":"Black Widow","color":"white"}',CustomNameVisible:1b,Tags:[sp_mob,sp_mob.ovw],DeathLootTable:"sp_mobs:black_widow",ActiveEffects:[{Id:11b,Amplifier:0,Duration:999999999}]}
 scoreboard players set @s spmobs.cnt 0
