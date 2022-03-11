@@ -1,0 +1,1 @@
+execute as @e[distance=..16,nbt={ActiveEffects:[{Id:2b}]}] at @s run function sp_mobs:skill/p_snow

@@ -1,0 +1,1 @@
+execute as @e[type=player,distance=..6,nbt={HurtTime:1s}] at @s run effect give @s blindness 2 0

@@ -1,0 +1,1 @@
+execute as @a[distance=..8,nbt={HurtTime:10s}] at @s run summon lightning_bolt

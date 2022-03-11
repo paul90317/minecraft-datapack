@@ -1,0 +1,1 @@
+execute if score world spmobs.intv10 matches 4 if block ~ ~-1 ~ nether_bricks run function sp_mobs:summon/black_knight

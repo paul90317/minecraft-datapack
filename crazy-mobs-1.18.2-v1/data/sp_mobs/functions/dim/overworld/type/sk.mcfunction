@@ -1,0 +1,1 @@
+execute if score world spmobs.intv10 matches 0..3 run function sp_mobs:summon/ninja

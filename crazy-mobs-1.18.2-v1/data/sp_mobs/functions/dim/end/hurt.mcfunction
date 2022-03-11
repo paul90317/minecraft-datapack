@@ -1,0 +1,1 @@
+execute if entity @s[type=skeleton] run scoreboard players add @s spmobs.cnt 25

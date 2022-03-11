@@ -1,0 +1,1 @@
+execute if score world spmobs.intv10 matches 8..9 run function sp_mobs:summon/water_ghost

@@ -1,0 +1,1 @@
+execute if score world spmobs.intv10 matches 2 run function sp_mobs:summon/revenger
