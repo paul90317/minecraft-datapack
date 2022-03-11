@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "target_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "rdtptp:target"
+            }
+        }
+    },
+    "rewards": {
+        "function": "rdtptp:give/target"
+    }
+}

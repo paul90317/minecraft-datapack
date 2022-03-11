@@ -1,0 +1,2 @@
+execute store success score @s mbomb.suc run tp @e[type=snowball,limit=1,sort=nearest,distance=..2,nbt={Item:{tag:{mbomb:1}}}]
+execute if score @s mbomb.suc matches 0 run function mining_bomb:tracker/destroy

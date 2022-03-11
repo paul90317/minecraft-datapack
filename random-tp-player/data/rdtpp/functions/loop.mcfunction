@@ -1,0 +1,1 @@
+execute as @a[scores={rdtpp.use=1..}] at @s run function rdtpp:check

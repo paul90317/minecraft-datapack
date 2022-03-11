@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "cutlass_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "rdtpp:rdtpp_stone"
+            }
+        }
+    },
+    "rewards": {
+        "function": "rdtpp:rdtpp_stone"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "pearl_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "rdtptp:pearl"
+            }
+        }
+    },
+    "rewards": {
+        "function": "rdtptp:give/pearl"
+    }
+}

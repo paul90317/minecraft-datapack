@@ -1,0 +1,2 @@
+summon item ~ ~ ~ {Motion:[0.0,0.3,0.0],Item:{Count:1b,id:"minecraft:armor_stand",tag:{display:{Name:'{"text":"Spawner Pickaxe","color":"blue"}'},EntityTag:{Tags:[spawner_pickaxe],Small:1b,Invisible:1b}}}}
+kill @s

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "cutlass_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "spawner_pickaxe:spawner_pickaxe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "spawner_pickaxe:spawner_pickaxe"
+    }
+}

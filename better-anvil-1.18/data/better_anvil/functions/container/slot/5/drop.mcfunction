@@ -1,0 +1,3 @@
+summon item ~ ~ ~ {Motion:[0.0,0.3,0.0],Item:{id:"minecraft:cookie",Count:1b,tag:{btav:0}}}
+data modify entity @e[type=item,sort=nearest,limit=1,nbt={Item:{tag:{btav:0}}}] Item set from block ~ ~-1 ~ Items[{Slot:5b}]
+item replace block ~ ~-1 ~ container.5 with light_gray_stained_glass_pane{btav:0,display:{Name:'{"text": "Put ingredient at me."}',Lore:['{"text": "Copper Ingot for repairing."}','{"text": "Book and Quill for move enchantment."}']}} 1

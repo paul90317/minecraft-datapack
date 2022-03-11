@@ -1,1 +1,1 @@
-execute if predicate sp_mobs:rare run function sp_mobs:summon/ninja
+execute if predicate sp_mobs:uncommon run function sp_mobs:summon/ninja

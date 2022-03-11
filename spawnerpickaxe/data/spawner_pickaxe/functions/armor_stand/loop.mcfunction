@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand] at @s run function spawner_pickaxe:armor_stand/which
