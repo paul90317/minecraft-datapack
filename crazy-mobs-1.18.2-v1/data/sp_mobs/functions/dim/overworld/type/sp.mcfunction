@@ -1,1 +1,1 @@
-execute if score world spmobs.intv10 matches 4..7 run function sp_mobs:summon/black_widow
+execute if predicate sp_mobs:common run function sp_mobs:summon/black_widow

@@ -1,1 +1,1 @@
-execute if score world spmobs.intv10 matches 1..4 run function sp_mobs:summon/robbery
+execute if predicate sp_mobs:common run function sp_mobs:summon/robbery

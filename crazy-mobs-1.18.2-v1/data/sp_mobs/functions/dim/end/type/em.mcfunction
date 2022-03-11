@@ -1,1 +1,1 @@
-execute if score world spmobs.intv10 matches 0..3 run summon phantom
+execute if predicate sp_mobs:rare run summon phantom

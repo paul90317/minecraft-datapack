@@ -1,2 +1,2 @@
-execute if score world spmobs.intv10 matches 6..8 if block ~ ~-1 ~ #sp_mobs:stone run function sp_mobs:summon/miner
-execute if score world spmobs.intv10 matches 2..4 run function sp_mobs:summon/barbarian
+execute if predicate sp_mobs:common if block ~ ~-1 ~ #sp_mobs:stone run function sp_mobs:summon/miner
+execute if predicate sp_mobs:rare run function sp_mobs:summon/barbarian
