@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "enchanted_mbomb_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "mining_bomb:enchanted_mbomb"
+            }
+        }
+    },
+    "rewards": {
+        "function": "mining_bomb:give/enchanted_mbomb"
+    }
+}
