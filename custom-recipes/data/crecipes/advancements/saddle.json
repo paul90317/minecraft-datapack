@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "saddle_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crecipes:saddle"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crecipes:check/saddle"
+    }
+}

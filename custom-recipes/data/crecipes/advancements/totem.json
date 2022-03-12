@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "totem_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crecipes:totem"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crecipes:check/totem"
+    }
+}

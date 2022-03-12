@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "lead_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crecipes:lead"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crecipes:check/lead"
+    }
+}

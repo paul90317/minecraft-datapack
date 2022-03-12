@@ -1,0 +1,2 @@
+scoreboard players set world crcp.gapple 0
+tellraw @a [{"text":"Recipe of ","color": "yellow"},{"text":"Enchanted Golden Apple","color":"white"},{"text":" is ","color":"yellow"},{"text": "disable","color":"red"}] 

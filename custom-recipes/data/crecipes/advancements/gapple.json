@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "gapple_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crecipes:gapple"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crecipes:check/gapple"
+    }
+}

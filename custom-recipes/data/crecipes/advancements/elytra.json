@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "elytra_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crecipes:elytra"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crecipes:check/elytra"
+    }
+}

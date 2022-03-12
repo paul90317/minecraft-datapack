@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "rb_hide_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crecipes:rb_hide"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crecipes:check/rb_hide"
+    }
+}

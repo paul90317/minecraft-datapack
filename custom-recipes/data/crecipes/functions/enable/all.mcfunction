@@ -1,0 +1,10 @@
+function crecipes:enable/bundle
+function crecipes:enable/elytra
+function crecipes:enable/enchanted_golden_apple
+function crecipes:enable/lead
+function crecipes:enable/leather
+function crecipes:enable/rabbit_foot
+function crecipes:enable/rabbit_hide
+function crecipes:enable/saddle
+function crecipes:enable/totem_of_undying
+function crecipes:enable/trident

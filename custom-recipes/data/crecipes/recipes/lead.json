@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ss",
+        " cs",
+        "s  "
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:string"
+        },
+        "c": {
+            "item": "minecraft:honey_bottle"
+        }
+    },
+    "result": {
+        "item": "minecraft:lead",
+        "count": 1
+    }
+}

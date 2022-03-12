@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "trident_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crecipes:trident"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crecipes:check/trident"
+    }
+}

@@ -1,0 +1,10 @@
+function crecipes:disable/bundle
+function crecipes:disable/elytra
+function crecipes:disable/enchanted_golden_apple
+function crecipes:disable/lead
+function crecipes:disable/leather
+function crecipes:disable/rabbit_foot
+function crecipes:disable/rabbit_hide
+function crecipes:disable/saddle
+function crecipes:disable/totem_of_undying
+function crecipes:disable/trident

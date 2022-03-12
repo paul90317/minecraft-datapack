@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "bundle_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crecipes:bundle"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crecipes:check/bundle"
+    }
+}

@@ -1,0 +1,2 @@
+scoreboard players set world crcp.rb_foot 1
+tellraw @a [{"text":"Recipe of ","color": "yellow"},{"text":"Rabbit Foot","color":"white"},{"text":" is ","color":"yellow"},{"text": "enable","color":"light_purple"}]  

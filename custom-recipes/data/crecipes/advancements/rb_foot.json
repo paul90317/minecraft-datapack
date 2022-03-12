@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "rb_foot_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crecipes:rb_foot"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crecipes:check/rb_foot"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "a#a",
+        "bcb",
+        "bcb"
+    ],
+    "key": {
+        "a": {
+            "item": "minecraft:stick"
+        },
+        "#": {
+            "item": "minecraft:string"
+        },
+        "b": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "c": {
+            "item": "minecraft:popped_chorus_fruit"
+        }
+    },
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 1
+    }
+}

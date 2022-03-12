@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "leather_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crecipes:leather"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crecipes:check/leather"
+    }
+}
