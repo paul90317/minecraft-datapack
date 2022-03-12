@@ -1,0 +1,3 @@
+scoreboard players reset @s rbhungry.st
+say I feel hungry...
+effect give @s hunger 8 100

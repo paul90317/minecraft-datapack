@@ -1,4 +1,4 @@
-particle explosion_emitter ~ ~ ~
+particle explosion ~ ~ ~
 playsound entity.lightning_bolt.impact ambient @a
 
 execute store result score @s mbomb.suc run fill ~2 ~2 ~2 ~-2 ~-2 ~-2 air replace deepslate
