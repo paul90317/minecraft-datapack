@@ -1,1 +1,0 @@
-execute positioned ^ ^ ^4 if block ~ ~1 ~ #sp_mobs:space positioned ^ ^ ^-4 run function sp_mobs:skill/done/trans
