@@ -1,1 +1,1 @@
-execute as @e[type=wither_skeleton] if entity @p[nbt={Dimension:"minecraft:overworld"}] run say hi 
+execute as @e[type=wither_skeleton] run say hi 
