@@ -1,1 +1,1 @@
-execute if entity @s[type=skeleton] run scoreboard players add @s spmobs.cnt 25
+execute if entity @s[type=skeleton] as @e[type=#sp_mobs:friend,distance=..5] run effect give @s levitation 3 6
