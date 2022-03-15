@@ -1,1 +1,0 @@
-execute as @e at @s run effect give @s glowing
