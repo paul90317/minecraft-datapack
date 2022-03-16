@@ -1,1 +1,1 @@
-execute as @e[type=player,distance=..6,nbt={HurtTime:1s}] at @s run effect give @s blindness 2 0
+execute as @e[type=#sp_mobs:friend,distance=..6,nbt={HurtTime:1s}] at @s run effect give @s blindness 2 0
