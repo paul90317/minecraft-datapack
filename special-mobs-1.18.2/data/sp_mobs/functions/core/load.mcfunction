@@ -2,10 +2,14 @@ scoreboard objectives add spmobs.cnt dummy
 scoreboard objectives add spmobs.cmax dummy
 scoreboard objectives add spmobs.intv10 dummy 
 scoreboard objectives add spmobs.intv13 dummy
+scoreboard objectives add spmobs.intv2 dummy
+scoreboard objectives add spmobs.intv23 dummy
 scoreboard objectives add spmobs.tmp dummy
 
 scoreboard players set #world spmobs.intv10 0
 scoreboard players set #world spmobs.intv13 0
+scoreboard players set #world spmobs.intv2 0
+scoreboard players set #world spmobs.intv23 0
 
 # configurable
 execute store success score #world spmobs.tmp run scoreboard players get #overworld spmobs.cmax

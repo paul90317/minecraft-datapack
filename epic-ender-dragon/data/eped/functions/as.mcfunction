@@ -1,0 +1,1 @@
+execute if entity @s[tag=eped.star] run function eped:as/star
