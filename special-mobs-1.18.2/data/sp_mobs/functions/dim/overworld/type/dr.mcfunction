@@ -1,1 +1,1 @@
-execute if predicate sp_mobs:lengenary run function sp_mobs:summon/water_ghost
+execute if predicate sp_mobs:uncommon run function sp_mobs:summon/sailor
