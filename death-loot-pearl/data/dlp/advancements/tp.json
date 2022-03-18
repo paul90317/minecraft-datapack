@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "tp_dlp_unlocked":{
+            "trigger": "recipe_unlocked",
+            "conditions": {
+                "recipe": "dlp:tp"
+            }
+        }
+    },
+    "rewards": {
+        "function": "dlp:craft/tp"
+    }
+}

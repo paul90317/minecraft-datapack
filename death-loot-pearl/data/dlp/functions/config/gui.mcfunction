@@ -1,3 +1,5 @@
 tellraw @s [{"text":"====Death Loot Pearl====","color":"aqua"}]
-execute if score world dlp.psv_lvl matches 1 run tellraw @s [{"text":"Preserve exp: ","color":"white"},{"text":"true","color":"yellow","clickEvent":{"action":"run_command","value":"/function dlp:config/private/false"}}]
-execute if score world dlp.psv_lvl matches 0 run tellraw @s [{"text":"Preserve exp: ","color":"white"},{"text":"false","color":"yellow","clickEvent":{"action":"run_command","value":"/function dlp:config/private/true"}}]
+execute if score #world dlp.psv_lvl matches 1 run tellraw @s [{"text":"Preserve Level: ","color":"white"},{"text":"true","color":"yellow","clickEvent":{"action":"run_command","value":"/function dlp:config/private/false_psv_lvl"}}]
+execute if score #world dlp.psv_lvl matches 0 run tellraw @s [{"text":"Preserve Level: ","color":"white"},{"text":"false","color":"yellow","clickEvent":{"action":"run_command","value":"/function dlp:config/private/true_psv_lvl"}}]
+execute if score #world dlp.can_tp matches 1 run tellraw @s [{"text":"TP Craft: ","color":"white"},{"text":"enable","color":"yellow","clickEvent":{"action":"run_command","value":"/function dlp:config/private/false_can_tp"}}]
+execute if score #world dlp.can_tp matches 0 run tellraw @s [{"text":"TP Craft: ","color":"white"},{"text":"disable","color":"yellow","clickEvent":{"action":"run_command","value":"/function dlp:config/private/true_can_tp"}}]

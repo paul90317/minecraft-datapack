@@ -1,0 +1,1 @@
+execute as @e[limit=1,sort=nearest,type=item,tag=dlp] store success score @p dlp.tmp run tp @p @s[distance=1..]
