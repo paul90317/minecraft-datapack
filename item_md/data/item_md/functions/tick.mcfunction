@@ -1,0 +1,2 @@
+item modify entity @a[nbt={SelectedItem:{id:"minecraft:crossbow"}}] weapon.mainhand item_md:charge
+item modify entity @e[type=pillager,nbt={HandItems:[{id:"minecraft:crossbow"}]}] weapon.mainhand item_md:charge 

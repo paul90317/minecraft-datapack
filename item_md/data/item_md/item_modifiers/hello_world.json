@@ -1,0 +1,10 @@
+{
+    "function": "minecraft:set_nbt",
+    "conditions": [
+        {
+            "condition": "minecraft:random_chance",
+            "chance": 0.2
+        }
+    ],
+    "tag": "{display:{Name:'{\"text\":\"Hello world\"}'}}"
+}
