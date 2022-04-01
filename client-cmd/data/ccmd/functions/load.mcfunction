@@ -1,3 +1,3 @@
-scoreboard objectives add ccmd.tp_player_random trigger
-scoreboard objectives add ccmd.tp_player_nearest trigger
-scoreboard objectives add ccmd.tp_player_furthest trigger
+scoreboard objectives add ccmd.tp_p_f trigger
+scoreboard objectives add ccmd.tp_p_n trigger
+scoreboard objectives add ccmd.tp_p_r trigger

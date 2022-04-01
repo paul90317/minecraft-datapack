@@ -1,1 +1,0 @@
-execute at @e[type=#sp_mobs:friend] run function sp_mobs:skill/falling_stars
